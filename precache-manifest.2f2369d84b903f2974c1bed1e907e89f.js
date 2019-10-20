@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "644c38ed0163a8ed41a228b5f0b6965c",
+    "revision": "a1442415d9d39bc47b3a75ab3a5cfd46",
     "url": "/Nobo-test-technique/index.html"
   },
   {
-    "revision": "cfe0c14b736b7bfd0a27",
+    "revision": "7886bf3046283749dafb",
     "url": "/Nobo-test-technique/static/css/main.e5dca79a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nobo-test-technique/static/js/2.bfa78b3d.chunk.js"
   },
   {
-    "revision": "cfe0c14b736b7bfd0a27",
-    "url": "/Nobo-test-technique/static/js/main.52aac128.chunk.js"
+    "revision": "7886bf3046283749dafb",
+    "url": "/Nobo-test-technique/static/js/main.88caca81.chunk.js"
   },
   {
     "revision": "636e74126e9abea68d12",
