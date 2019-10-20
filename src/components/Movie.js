@@ -10,9 +10,9 @@ import {Link} from "react-router-dom";
 const Movie = (props) => {
     var img = props.movie.show.image ? props.movie.show.image.medium : null;
     return(
-        <div>
+        <div style={{height:"100%"}}>
             { props.movie ? (
-                <Card >
+                <Card style={{height:"100%"}}>
                     <CardMedia style={{height: 0, paddingTop: '56.25%'}}
                     image={img}
                     title={props.movie.show.name}

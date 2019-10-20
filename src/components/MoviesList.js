@@ -51,10 +51,10 @@ render() {
                         margin="normal"
                         onChange={this.onSearchInputChange}
                     />
-                    <Grid container spacing={24} style={{padding: 28,marginLeft:70}}>
+                    <Grid justify="center" container spacing={4} style={{padding: 28}}>
                             { this.state.movies.map(currentMovie => (
-                                <Grid className="movie" item xs={12} sm={6} lg={3} xl={3} style={{marginBottom:"70px",marginRight:50}}>
-                                    <Movie movie={currentMovie} />
+                                <Grid className="movie" item xs={12} sm={6} lg={3} xl={3} style={{marginBottom:"70px"}}>
+                                    <Movie movie={currentMovie}/>
                                 </Grid>
                             ))}
                     </Grid>

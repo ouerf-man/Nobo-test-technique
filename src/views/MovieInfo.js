@@ -40,7 +40,8 @@ export default class MovieInfo extends React.Component {
                 
             })
             .catch(console.log);
-            
+            window.scrollTo(0, 0);
+
     }
     
 
