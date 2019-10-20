@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nobo-test-technique/precache-manifest.2f2369d84b903f2974c1bed1e907e89f.js"
+  "/Nobo-test-technique/precache-manifest.a40ee1911553cdc8020b6119803363bc.js"
 );
 
 self.addEventListener('message', (event) => {
