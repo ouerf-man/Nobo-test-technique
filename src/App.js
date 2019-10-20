@@ -9,7 +9,7 @@ function App() {
   return (
     <>
 
-            <BrowserRouter>
+            <BrowserRouter basename={process.env.public_url}>
                 <Header/>
 
                 <Switch>

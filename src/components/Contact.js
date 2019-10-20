@@ -83,7 +83,7 @@ function Contact() {
                             <label>Message</label>
                             <Input
                                 id={'msg'}
-                                placeholder="Tell us your thoughts and feelings..."
+                                placeholder="Tell me your thoughts ..."
                                 type="textarea"
                                 rows="4"
                                 required
